@@ -1,7 +1,7 @@
 cask "kdenlive" do
   version "21.12.0"
   release "581"
-  sha256 "39db55371eaa4794236b54d501bb9ad49f93bbc4b4434371e223159a7d321aef"
+  sha256 "6b0af6ba2450de1fdca0be09ede451917a67ce54bc4d5d5ead44077398fa2d9c"
   
   url "https://binary-factory.kde.org/job/Kdenlive_Stable_macos/#{release}/artifact/kdenlive-#{version}-#{release}-macos-64-clang.dmg",
       verified: "https://github.com/KDE/kdenlive"
